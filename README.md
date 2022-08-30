@@ -27,10 +27,6 @@ In non-interactive mode, the program will exit after finishing your desired comm
 
 This is the man page which contains all functions and descriptions of all the functions used in this Simple shell project. To access this page, Do:
 
-## AUTHORS
-
-This file contains the details of all the individuals that contributed to this shell project.
-
 ## Features
 
 1. DIsplay a prompt and wait for the user to type a command. A command-line always ends with a new line.
