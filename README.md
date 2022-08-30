@@ -37,4 +37,4 @@ This is the man page which contains all functions and descriptions of all the fu
 
 ## Credits
 
-All codes written by Adesokan Oluwapelumi and ...
+All codes written by Adesokan Oluwapelumi and David Olatunji J.
